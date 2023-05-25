@@ -1,15 +1,16 @@
 {
-    "name": "laravel/laravel",
+    "name": "resend/resend-laravel-example",
     "type": "project",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "description": "An example Laravel project using Resend.",
+    "keywords": ["resend", "laravel"],
     "license": "MIT",
     "require": {
         "php": "^8.1",
         "guzzlehttp/guzzle": "^7.2",
         "laravel/framework": "^10.10",
         "laravel/sanctum": "^3.2",
-        "laravel/tinker": "^2.8"
+        "laravel/tinker": "^2.8",
+        "resend/resend-laravel": "^0.3.1"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9.1",
