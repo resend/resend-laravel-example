@@ -73,7 +73,7 @@ php artisan serve
 
 To get the full experience of how easy it is to send emails with Resend, follow these simple steps:
 
-1. Create two user accounts with a valid email addresses.
+1. Create two user accounts with valid email addresses.
 2. Once you have two user accounts, login into any one of them and navigate to the "Chirps" page.
 3. Write your very first Chirp.
 4. Once you have submitted your first Chirp, the application will use Resend to email all users of your new Chirp.
