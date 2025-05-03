@@ -9,13 +9,8 @@
         "php": "^8.2",
         "laravel/framework": "^12.0",
         "laravel/sanctum": "^4.0",
-<<<<<<< Updated upstream
-        "laravel/tinker": "^2.9",
-        "resend/resend-laravel": "^0.16.0"
-=======
         "laravel/tinker": "^2.10.1",
-        "resend/resend-laravel": "^0.17.0"
->>>>>>> Stashed changes
+        "resend/resend-laravel": "^0.18.0"
     },
     "require-dev": {
         "fakerphp/faker": "^1.23",
