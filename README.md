@@ -1,3 +1,11 @@
+> [!IMPORTANT]
+> This repository has been consolidated into the new [resend-examples](https://github.com/resend/resend-examples) monorepo, which contains updated examples for all languages and frameworks.
+>
+> **[View the Laravel examples here](https://github.com/resend/resend-examples/tree/main/laravel-resend-examples)**
+
+---
+
+
 # Resend with Laravel
 
 This example shows how to use Resend with [Laravel](https://laravel.com).
