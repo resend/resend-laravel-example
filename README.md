@@ -19,16 +19,16 @@ To get the most out of this guide, you’ll need to:
 
 ## Instructions
 
-1. Install the `composer` and `npm` dependencies:
+1. Install the `composer` and `pnpm` dependencies:
 
 ```bash
-composer install && npm install
+composer install && pnpm install
 ```
 
 4. Build the Javascript and CSS files required for the frontend:
 
 ```bash
-npm run build
+pnpm build
 ```
 
 5. Create a `.env` file used to configure your application:
